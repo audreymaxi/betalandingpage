@@ -375,7 +375,7 @@ nav {
 
 #brand a,
 nav a {
-    color: #949799;
+    color: #757575;
 }
 
 #brand a img#default-logo,
@@ -410,7 +410,7 @@ only screen and (min-resolution: 144dpi) {
 
 header.transparent.light #brand a,
 header.transparent.light nav > ul > li > a {
-    color: #949799;
+    color: #757575;
 }
 }
 
@@ -636,7 +636,7 @@ nav ul.sub-menu > li:last-child > a {
 .caption-mockup h2,
 .photocaption,
 .photocaption h4 {
-    color: #949799;
+    color: #757575;
 }
 
 .caption.dark,
@@ -1469,7 +1469,7 @@ a.reply:hover {
 
 .widget h4 {
     font-size: 0.875rem;
-    color: #949799;
+    color: #757575;
 }
 
 
@@ -1497,7 +1497,7 @@ ul.meta-social li a {
 
 .text-light .meta-social ul li a,
 .text-light ul.meta-social li a {
-    border-color: #949799;
+    border-color: #757575;
     color: rgba(255, 255, 255, 0.5);
 }
 
@@ -1519,7 +1519,7 @@ ul.meta-social li a.dribbble-share:hover {
 
 .meta-social ul li a.facebook-share:hover,
 ul.meta-social li a.facebook-share:hover {
-    border-color: #949799;
+    border-color: #757575;
     background-color: #3b5998;
 }
 
@@ -1531,7 +1531,7 @@ ul.meta-social li a.flickr-share:hover {
 
 .meta-social ul li a.github-share:hover,
 ul.meta-social li a.github-share:hover {
-    border-color: #949799;
+    border-color: #757575;
     background-color: #171515;
 }
 
@@ -1567,7 +1567,7 @@ ul.meta-social li a.skype-share:hover {
 
 .meta-social ul li a.twitter-share:hover,
 ul.meta-social li a.twitter-share:hover {
-    border-color: #949799;
+    border-color: #757575;
     background-color: #00acee;
 }
 
@@ -2845,7 +2845,7 @@ footer {
     position: relative;
     z-index: 10;
     background-color: #fff;
-    color: #949799;
+    color: #757575;
 }
 
 footer h1,
@@ -2854,11 +2854,11 @@ footer h3,
 footer h4,
 footer h5,
 footer h6 {
-    color: #949799;
+    color: #757575;
 }
 
 footer a {
-    color: #949799;
+    color: #757575;
     text-decoration: none;
 }
 
@@ -2868,7 +2868,7 @@ footer a:hover {
 
 footer .meta-social ul li a {
     border-color: #545766;
-    color: #949799;
+    color: #757575;
 }
 
 footer .meta-social ul li a:hover {
