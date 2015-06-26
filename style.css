@@ -135,6 +135,25 @@ img {
     background-color: #ffffff;
 }
 
+#background-light {
+    background: url("img/ffc.png") repeat-x;
+}
+
+#background-testi {
+    background: url("img/ffc2.png") repeat-x;
+    color: #fff;
+}
+
+#background-jobs {
+    background: url("img/jobs.jpg") repeat-x;
+    color: #fff;
+}
+
+#background-become {
+    background: url("img/kopi.jpg") repeat-x;
+    color: #fff;
+}
+
 section {
     overflow-x: hidden;
 }
@@ -578,7 +597,7 @@ nav ul.sub-menu > li:last-child > a {
     right: 0;
     bottom: 0;
     left: 0;
-    background-color: #52beed;
+    background-color: #11cbe1;
 }
 
 #intro .intro-mockup,
@@ -2678,14 +2697,14 @@ input.button.transparent.aqua:hover {
 
 .button.transparent.blue,
 input.transparent.button.blue {
-    border: 2px solid rgba(96,158,234,1);
-    color: rgba(96,158,234,1) !important;
+    border: 2px solid rgba(17,203,225,1);
+    color: rgba(17,203,225,1) !important;
 }
 
 .button.transparent.blue:hover,
 input.button.transparent.blue:hover {
-    border: 2px solid rgba(96,158,234,1);
-    background-color: rgba(96,158,234,1);
+    border: 2px solid rgba(17,203,225,1);
+    background-color: rgba(17,203,225,1);
     color: #fff !important;
 }
 
